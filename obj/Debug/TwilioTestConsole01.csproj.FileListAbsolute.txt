@@ -1,0 +1,8 @@
+C:\Users\jill\Documents\dotnet\weekfour\TwilioTestConsole01\TwilioTestConsole01\bin\Debug\TwilioTestConsole01.exe.config
+C:\Users\jill\Documents\dotnet\weekfour\TwilioTestConsole01\TwilioTestConsole01\bin\Debug\TwilioTestConsole01.exe
+C:\Users\jill\Documents\dotnet\weekfour\TwilioTestConsole01\TwilioTestConsole01\bin\Debug\TwilioTestConsole01.pdb
+C:\Users\jill\Documents\dotnet\weekfour\TwilioTestConsole01\TwilioTestConsole01\bin\Debug\RestSharp.dll
+C:\Users\jill\Documents\dotnet\weekfour\TwilioTestConsole01\TwilioTestConsole01\bin\Debug\RestSharp.xml
+C:\Users\jill\Documents\dotnet\weekfour\TwilioTestConsole01\TwilioTestConsole01\obj\Debug\TwilioTestConsole01.csprojResolveAssemblyReference.cache
+C:\Users\jill\Documents\dotnet\weekfour\TwilioTestConsole01\TwilioTestConsole01\obj\Debug\TwilioTestConsole01.exe
+C:\Users\jill\Documents\dotnet\weekfour\TwilioTestConsole01\TwilioTestConsole01\obj\Debug\TwilioTestConsole01.pdb
