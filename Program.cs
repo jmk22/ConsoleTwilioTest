@@ -12,8 +12,8 @@ namespace TwilioTestConsole01
             var name = Console.ReadLine();
             var client = new RestClient("https://api.twilio.com/2010-04-01");
             var request = new RestRequest("Accounts/" + EnvironmentVariables.TwilioAccountSid + "/Messages.json", Method.POST);
-            request.AddParameter("To", "+14049812892");
-            request.AddParameter("From", "+16786078332");
+            request.AddParameter("To", EnvironmentVariables.ToNumber);
+            request.AddParameter("From", EnvironmentVariables.FromNumber);
             request.AddParameter("Body", "Hey there, " + name + "!");
             client.BaseUrl = new Uri("https://api.twilio.com/2010-04-01");
             client.Authenticator = new HttpBasicAuthenticator(EnvironmentVariables.TwilioAccountSid, EnvironmentVariables.TwilioAuthToken);
